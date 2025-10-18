@@ -34,8 +34,7 @@ To Write an assembly language program in 8051 to find the factorial of a given  
 ---
 
 ## FLOWCHART
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b9d94eea-a743-43f4-ac56-fba678ae2f81" />
-
+<img width="384" height="576" alt="image" src="https://github.com/user-attachments/assets/e1d0e70b-23a3-45b3-b613-3359dc3b47f2" />
 
 
 ---
@@ -61,7 +60,7 @@ END
 ```
 OUTPUT
 
-<img width="1926" height="1086" alt="image" src="https://github.com/user-attachments/assets/a2e2663a-c004-428e-8bb2-94d1e943fde7" />
+<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/32163a73-c558-4ccf-a690-9b5ac3159d87" />
 
 
 <img width="1926" height="265" alt="image" src="https://github.com/user-attachments/assets/b407e7bf-8b7a-4d2e-a3a8-29628279467f" />
@@ -69,7 +68,10 @@ OUTPUT
 
 ---
 MANUAL CALCULATIONS
-![WhatsApp Image 2025-09-24 at 22 50 46_011089e3](https://github.com/user-attachments/assets/0a9fbf9e-5636-4914-9723-2df721668f67)
+
+
+
+<img width="610" height="439" alt="image" src="https://github.com/user-attachments/assets/dfe76fa2-8039-4fda-80c3-2fb1550bd9ad" />
 
 ---
 
