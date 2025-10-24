@@ -70,8 +70,8 @@ OUTPUT
 MANUAL CALCULATIONS
 
 
+![WhatsApp Image 2025-10-24 at 8 14 36 PM](https://github.com/user-attachments/assets/e3b3ddc3-66e8-4834-830f-e4ad284306bc)
 
-<img width="610" height="439" alt="image" src="https://github.com/user-attachments/assets/dfe76fa2-8039-4fda-80c3-2fb1550bd9ad" />
 
 ---
 
